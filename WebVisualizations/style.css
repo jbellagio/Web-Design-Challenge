@@ -1,0 +1,33 @@
+.navbar-brand {
+    padding: 10px;
+    background: lightgray;
+    color: white;
+    text-decoration: none;
+    margin-left: 60px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: grey;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+
+
+.container {
+    padding: 50px;
+    background-color: white;
+}
+
+
+
+/* @media (max-width: 1000px) {
+    .navbar {
+        background: grey;
+    }
+
+} */
