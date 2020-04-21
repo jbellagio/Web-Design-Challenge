@@ -23,6 +23,17 @@ body {
     background-color: white;
 }
 
+.visualizations {
+    height: 300px;
+    width: 400px;
+
+}
+
+h4 {
+    color: grey;
+    text-align: center;
+}
+
 
 
 /* @media (max-width: 1000px) {
